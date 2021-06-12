@@ -1,0 +1,9 @@
+.place__second-box {
+  display: flex;
+}
+
+@media screen and (max-width: 720px) {
+  .place__second-box {
+    display: block;
+ }
+}
