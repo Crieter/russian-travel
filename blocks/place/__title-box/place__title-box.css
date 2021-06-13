@@ -1,9 +1,9 @@
-.place__second-box {
+.place__title-box {
   display: flex;
 }
 
 @media screen and (max-width: 720px) {
-  .place__second-box {
+  .place__title-box {
     display: block;
  }
 }

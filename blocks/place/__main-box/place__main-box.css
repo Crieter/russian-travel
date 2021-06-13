@@ -1,9 +1,9 @@
-.place__first-box {
+.place__main-box {
   display: flex;
 }
 
 @media screen and (max-width: 720px) {
-  .place__first-box {
+  .place__main-box {
     display: block;
  }
 }

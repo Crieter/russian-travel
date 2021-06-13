@@ -1,23 +1,23 @@
-.place__third-box {
+.place__text-box {
   max-width: 484px;
   margin: 48px 0 0 40px;
 }
 
 @media screen and (max-width: 1200px) {
-  .place__third-box {
+  .place__text-box {
     max-width: 456px;
     margin-left: 32px;
  }
 }
 
 @media screen and (max-width: 950px) {
-  .place__third-box {
+  .place__text-box {
     margin-left: 28px;
  }
 }
 
 @media screen and (max-width: 720px) {
-  .place__third-box {
+  .place__text-box {
     margin: 32px 16px 0;
  }
 }
